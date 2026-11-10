@@ -4,7 +4,7 @@
 
 ELOV - Evil Layer Of Visnux is a repo with random stuff in it
 
-how to put EVOL to your system?
+how to put ELOV to your system?
 
 go nano or vim or nvim wtv /etc/pacman.conf
 
