@@ -2,7 +2,7 @@
 
 (ill make this one quick bc im very lazy but ill update the readme anyway)
 
-EVOL - Evil Layer Of Visnux is a repo with random stuff in it
+ELOV - Evil Layer Of Visnux is a repo with random stuff in it
 
 how to put EVOL to your system?
 
