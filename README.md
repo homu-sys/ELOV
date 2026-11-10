@@ -8,7 +8,7 @@ how to put EVOL to your system?
 
 go nano or vim or nvim wtv /etc/pacman.conf
 
-then do this
+then add this
 
 ```
 [EVOL]
