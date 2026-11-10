@@ -11,9 +11,9 @@ go nano or vim or nvim wtv /etc/pacman.conf
 then add this
 
 ```
-[EVOL]
-
-https://realv1sta.github.io/ELOV/
+[ELOV]
+SigLevel = Optional TrustAll
+Server = https://realv1sta.github.io/ELOV
 ```
 
 and uh yeah thats all
